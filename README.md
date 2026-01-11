@@ -1,4 +1,4 @@
-# Decision Intelligence Tool
+# Decision Intelligence Tool Kiro
 
 A sophisticated web application that transforms complex decision-making into clear, actionable insights. Instead of providing a single answer, this tool generates three distinct options with brutal honesty about trade-offs, personalized recommendations based on user preferences, and visual comparisons through interactive radar charts.
 
@@ -185,3 +185,4 @@ Built with ❤️ using Kiro IDE's AI capabilities. Contributions welcome!
 ---
 
 **Made with Kiro IDE** - Showcasing the power of AI-assisted development for creating intelligent, user-focused applications.
+
